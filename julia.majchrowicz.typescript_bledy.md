@@ -10,3 +10,5 @@
 - Uruchomiono komendę `npx tsc 028_bledny_kod.ts`, która spowodowała wygenerowanie błędu w terminalu:
 
 Error: Type 'string' is not assignable to type 'number'. Error: Type 'boolean' is not assignable to type 'number'.
+
+![typescript_error_screenshot png](https://github.com/user-attachments/assets/335276b8-b2df-46af-b080-f402817ec64e)
